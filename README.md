@@ -50,6 +50,12 @@ Smart_Digital_Clock/
 
 └── README.md
 
+└── Digital_Clock_Screenshot.png
+
+└── Screenrecord_Video
+
+
+
 ```
 
 ## ⚙️ Installation & Execution:
